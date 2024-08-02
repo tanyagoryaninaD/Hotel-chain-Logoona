@@ -564,35 +564,35 @@ li {
 }
 
 .card1.advantages__item {
-    background-image: url(../img/bathtub.svg), url(../img/bathtub.svg);
+    background-image: url(../img/bathtub.svg), url(img/bathtub.svg);
 }
 
 .card2.advantages__item {
-    background-image: url(../img/hanger.svg), url(../img/hanger.svg);
+    background-image: url(../img/hanger.svg), url(img/hanger.svg);
 }
 
 .card3.advantages__item {
-    background-image: url(../img/heating.svg), url(../img/heating.svg);
+    background-image: url(../img/heating.svg), url(img/heating.svg);
 }
 
 .card4.advantages__item {
-    background-image: url(../img/hotel-key.svg), url(../img/hotel-key.svg);
+    background-image: url(../img/hotel-key.svg), url(img/hotel-key.svg);
 }
 
 .card5.advantages__item {
-    background-image: url(../img/parking.svg), url(../img/parking.svg);
+    background-image: url(../img/parking.svg), url(img/parking.svg);
 }
 
 .card6.advantages__item {
-    background-image: url(../img/reception.svg), url(../img/reception.svg);
+    background-image: url(../img/reception.svg), url(img/reception.svg);
 }
 
 .card7.advantages__item {
-    background-image: url(../img/security-box.svg), url(../img/security-box.svg);
+    background-image: url(../img/security-box.svg), url(img/security-box.svg);
 }
 
 .card8.advantages__item {
-    background-image: url(../img/swimming-pool.svg), url(../img/swimming-pool.svg);
+    background-image: url(../img/swimming-pool.svg), url(img/swimming-pool.svg);
 }
 
 
