@@ -364,17 +364,17 @@ li {
 }
 
 .card1.offer__item {
-    background: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/maldives.jpg) no-repeat center;
+    background: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/maldives.jpg), url(img/maldives.jpg) no-repeat center;
     background-size: cover;
 }
 
 .card2.offer__item {
-    background: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/crete.jpg) no-repeat center;
+    background: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/crete.jpg), url(img/crete.jpg) no-repeat center;
     background-size: cover;
 }
 
 .card3.offer__item {
-    background: url(../img/luxury.png) no-repeat center;
+    background: url(../img/luxury.png), url(img/luxury.png) no-repeat center;
     background-size: cover;
 }
 
@@ -456,19 +456,19 @@ li {
 }
 
 .item-1 {
-    background-image: url(../img/services1.jpg);
+    background-image: url(../img/services1.jpg), url(img/services1.jpg);
 }
 
 .item-2 {
-    background-image: url(../img/services2.jpg);
+    background-image: url(../img/services2.jpg), url(img/services2.jpg);
 }
 
 .item-3 {
-    background-image: url(../img/services3.jpg);
+    background-image: url(../img/services3.jpg), url(img/services3.jpg);
 }
 
 .item-4 {
-    background-image: url(../img/services4.jpg);
+    background-image: url(../img/services4.jpg), url(img/services4.jpg);
 }
 
 .services__article {
@@ -564,35 +564,35 @@ li {
 }
 
 .card1.advantages__item {
-    background-image: url(../img/bathtub.svg);
+    background-image: url(../img/bathtub.svg), url(../img/bathtub.svg);
 }
 
 .card2.advantages__item {
-    background-image: url(../img/hanger.svg);
+    background-image: url(../img/hanger.svg), url(../img/hanger.svg);
 }
 
 .card3.advantages__item {
-    background-image: url(../img/heating.svg);
+    background-image: url(../img/heating.svg), url(../img/heating.svg);
 }
 
 .card4.advantages__item {
-    background-image: url(../img/hotel-key.svg);
+    background-image: url(../img/hotel-key.svg), url(../img/hotel-key.svg);
 }
 
 .card5.advantages__item {
-    background-image: url(../img/parking.svg);
+    background-image: url(../img/parking.svg), url(../img/parking.svg);
 }
 
 .card6.advantages__item {
-    background-image: url(../img/reception.svg);
+    background-image: url(../img/reception.svg), url(../img/reception.svg);
 }
 
 .card7.advantages__item {
-    background-image: url(../img/security-box.svg);
+    background-image: url(../img/security-box.svg), url(../img/security-box.svg);
 }
 
 .card8.advantages__item {
-    background-image: url(../img/swimming-pool.svg);
+    background-image: url(../img/swimming-pool.svg), url(../img/swimming-pool.svg);
 }
 
 
@@ -683,7 +683,7 @@ li {
     flex-wrap: wrap;
     align-content: flex-end;
     justify-content: center;
-    background-image: url(../img/placement-background.jpg);
+    background-image: url(../img/placement-background.jpg), url(img/placement-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -780,7 +780,7 @@ li {
 .btn-select {
     width: 169px;
     padding: 5px 20px 5px 5px;
-    background-image: url(../img/arrow-form.svg);
+    background-image: url(../img/arrow-form.svg), url(img/arrow-form.svg);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -881,7 +881,7 @@ address {
     font-weight: 400;
     font-size: 16px;
     line-height: 30px;
-    background: url(../img/vector-sun.svg);
+    background: url(../img/vector-sun.svg), url(img/vector-sun.svg);
     background-repeat: no-repeat;
     background-position: bottom 1px right 15%;
 }
